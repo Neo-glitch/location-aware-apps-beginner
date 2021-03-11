@@ -1,0 +1,52 @@
+[
+  {
+    "activityId": 1,
+    "title": "Hiking",
+    "icon": "terrain"
+  },
+  {
+    "activityId": 2,
+    "title": "Running",
+    "icon": "directions_run"
+  },
+  {
+    "activityId": 3,
+    "title": "Walking",
+    "icon": "directions_walk"
+  },
+  {
+    "activityId": 4,
+    "title": "Biking",
+    "icon": "directions_bike"
+  },
+  {
+    "activityId": 5,
+    "title": "Swimming",
+    "icon": "pool"
+  },
+  {
+    "activityId": 6,
+    "title": "Sunbathing",
+    "icon": "beach_access"
+  },
+  {
+    "activityId": 7,
+    "title": "Grilling",
+    "icon": "outdoor_grill"
+  },
+  {
+    "activityId": 8,
+    "title": "Basketball",
+    "icon": "sports_basketball"
+  },
+  {
+    "activityId": 9,
+    "title": "Soccer",
+    "icon": "sports_soccer"
+  },
+  {
+    "activityId": 10,
+    "title": "Tennis",
+    "icon": "sports_tennis"
+  }
+]

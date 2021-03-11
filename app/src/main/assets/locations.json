@@ -1,0 +1,92 @@
+[
+  {
+    "locationId": 1,
+    "title": "Crissy Field",
+    "description": "Part of the Golden Gate National Park, this area is a restored military field.",
+    "hours": "24 hours",
+    "latitude": 37.805189,
+    "longitude": -122.465143,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 2,
+    "title": "Golden Gate Park",
+    "description": "A thousand acre park located in the heart of San Francisco",
+    "hours": "24 hours",
+    "latitude": 37.774465,
+    "longitude": -122.454928,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 3,
+    "title": "Lafayette Park",
+    "description": "An oasis in Pacific Heights with great views",
+    "hours": "5am - 12am",
+    "latitude": 37.791745,
+    "longitude": -122.426121,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 4,
+    "title": "San Bruno Mountain State & County Park",
+    "description": "A great mountain escape with picnic areas and hiking trails",
+    "hours": "8am - 8pm",
+    "latitude": 37.699271,
+    "longitude": -122.42151,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 5,
+    "title": "Marin Headlands",
+    "description": "Amazing views of the Golden Gate Bridge await",
+    "hours": "24 hours",
+    "latitude": 37.83419,
+    "longitude": -122.484166,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 6,
+    "title": "Franklin Square",
+    "description": "An urban park in the heart of the Mission District",
+    "hours": "24 hours",
+    "latitude": 37.764388,
+    "longitude": -122.410292,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 7,
+    "title": "Fort Mason",
+    "description": "A park on a former army base located in the Golden Gate National Recreation Area",
+    "hours": "24 hours",
+    "latitude": 37.804023,
+    "longitude": -122.426858,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 8,
+    "title": "Lake Merced Park",
+    "description": "A beautiful park surrounding one of the area's largest lakes.",
+    "hours": "24 hours",
+    "latitude": 37.725009,
+    "longitude": -122.502995,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 9,
+    "title": "Mori Point",
+    "description": "Oceanside bluffs with amazing views.",
+    "hours": "24 hours",
+    "latitude": 37.618416,
+    "longitude": -122.485392,
+    "geofenceRadius": 1000
+  },
+  {
+    "locationId": 10,
+    "title": "Bayside Park",
+    "description": "A park with sweeping views of the bay.",
+    "hours": "24 hours",
+    "latitude": 37.591892,
+    "longitude": -122.358494,
+    "geofenceRadius": 1000
+  }
+]

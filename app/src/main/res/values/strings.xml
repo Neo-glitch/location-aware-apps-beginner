@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Outdoor Explorer</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_locations">Locations</string>
+    <string name="title_map">Map</string>
+    <string name="title_location">Location Details</string>
+    <string name="hours_label">Hours</string>
+    <string name="activities_label">Activities</string>
+    <string name="distance">Distance</string>
+    <string name="distance_value">%1$.2f mi</string>
+    <string name="ok">OK</string>
+    <string name="locations_snackbar">Show distance to locations?</string>
+    <string name="locations_rationale">We need access to your location to show you recreation opportunities near your current location. This data is not stored or shared.</string>
+    <string name="map_snackbar">Show your location on the map?</string>
+    <string name="map_rationale">We need access to your location to show your location relative to recreation opportunities near you. This data is not stored or shared.</string>
+    <string name="activities_location_snackbar">Use location to show nearby activities?</string>
+    <string name="activities_background_snackbar">Allow location when not in use to show nearby activities?</string>
+    <string name="activities_background_rationale">Using the locations nearby functionality requires background access to your device\'s location</string>
+    <string name="activities_background_reminder">We use your location even when this app is closed to share nearby activities</string>
+    <string name="notification_channel">geofence notification</string>
+    <string name="notification_message">geofence location</string>
+    <string name="notification_title">notification title</string>
+</resources>

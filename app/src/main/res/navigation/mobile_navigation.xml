@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_locations">
+
+    <fragment
+        android:id="@+id/navigation_activities"
+        android:name="com.neo.locationawareapps.ui.activities.ActivitiesFragment"
+        android:label="@string/title_activities"
+        tools:layout="@layout/fragment_activities">
+        <action
+            android:id="@+id/action_navigation_activities_to_navigation_locations"
+            app:destination="@id/navigation_locations"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim"
+            app:popUpTo="@id/navigation_activities" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_locations"
+        android:name="com.neo.locationawareapps.ui.locations.LocationsFragment"
+        android:label="{title}"
+        tools:layout="@layout/fragment_locations">
+        <action
+            android:id="@+id/action_navigation_locations_to_navigation_location"
+            app:destination="@id/navigation_location"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim"
+            app:popUpTo="@id/navigation_locations" />
+        <argument
+            android:name="activityId"
+            android:defaultValue="0"
+            app:argType="integer" />
+        <argument
+            android:name="title"
+            android:defaultValue="Locations"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.neo.locationawareapps.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map">
+        <action
+            android:id="@+id/action_navigation_map_to_navigation_location"
+            app:destination="@id/navigation_location"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim"
+            app:popUpTo="@id/navigation_map" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_location"
+        android:name="com.neo.locationawareapps.ui.location.LocationFragment"
+        android:label="@string/title_location"
+        tools:layout="@layout/fragment_location">
+        <argument
+            android:name="locationId"
+            android:defaultValue="0"
+            app:argType="integer" />
+    </fragment>
+</navigation>

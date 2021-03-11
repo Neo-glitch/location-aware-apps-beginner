@@ -1,0 +1,154 @@
+[
+  {
+    "activityId": 2,
+    "locationId": 1
+  },
+  {
+    "activityId": 3,
+    "locationId": 1
+  },
+  {
+    "activityId": 4,
+    "locationId": 1
+  },
+  {
+    "activityId": 5,
+    "locationId": 1
+  },
+  {
+    "activityId": 6,
+    "locationId": 1
+  },
+  {
+    "activityId": 7,
+    "locationId": 1
+  },
+  {
+    "activityId": 7,
+    "locationId": 2
+  },
+  {
+    "activityId": 8,
+    "locationId": 2
+  },
+  {
+    "activityId": 9,
+    "locationId": 2
+  },
+  {
+    "activityId": 10,
+    "locationId": 2
+  },
+  {
+    "activityId": 3,
+    "locationId": 3
+  },
+  {
+    "activityId": 10,
+    "locationId": 3
+  },
+  {
+    "activityId": 1,
+    "locationId": 4
+  },
+  {
+    "activityId": 2,
+    "locationId": 4
+  },
+  {
+    "activityId": 3,
+    "locationId": 4
+  },
+  {
+    "activityId": 7,
+    "locationId": 4
+  },
+  {
+    "activityId": 1,
+    "locationId": 5
+  },
+  {
+    "activityId": 2,
+    "locationId": 5
+  },
+  {
+    "activityId": 3,
+    "locationId": 5
+  },
+  {
+    "activityId": 4,
+    "locationId": 5
+  },
+  {
+    "activityId": 9,
+    "locationId": 6
+  },
+  {
+    "activityId": 3,
+    "locationId": 6
+  },
+  {
+    "activityId": 2,
+    "locationId": 7
+  },
+  {
+    "activityId": 3,
+    "locationId": 7
+  },
+  {
+    "activityId": 6,
+    "locationId": 7
+  },
+  {
+    "activityId": 2,
+    "locationId": 8
+  },
+  {
+    "activityId": 3,
+    "locationId": 8
+  },
+  {
+    "activityId": 4,
+    "locationId": 8
+  },
+  {
+    "activityId": 5,
+    "locationId": 8
+  },
+  {
+    "activityId": 7,
+    "locationId": 8
+  },
+  {
+    "activityId": 1,
+    "locationId": 9
+  },
+  {
+    "activityId": 2,
+    "locationId": 9
+  },
+  {
+    "activityId": 3,
+    "locationId": 9
+  },
+  {
+    "activityId": 9,
+    "locationId": 10
+  },
+  {
+    "activityId": 2,
+    "locationId": 10
+  },
+  {
+    "activityId": 3,
+    "locationId": 10
+  },
+  {
+    "activityId": 4,
+    "locationId": 10
+  },
+  {
+    "activityId": 6,
+    "locationId": 10
+  }
+]
